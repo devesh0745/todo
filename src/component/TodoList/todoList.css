@@ -1,0 +1,139 @@
+/*.todo-list {
+    list-style: none;
+    padding: 0;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+  
+  .completed {
+    color: green;
+   
+  }
+  
+  .pending {
+    color: red;
+    }
+  
+  #toogle, #delete {
+    padding: 8px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #toogle {
+    margin-right: 5px;
+  }
+  
+  #delete {
+    background-color: #f44336;
+    margin-left: auto; /* Push to the right corner */
+  
+  /* New styles for title and status icons 
+  .title-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .title-icon {
+    margin-right: 10px;
+  }
+  
+  /* Add or adjust icons as needed 
+  .completed-icon {
+    color: green;
+  }
+  
+  .pending-icon {
+    color: red;
+  }*/
+  /* Your existing CSS for todo items */
+  .todo-list {
+    list-style: none;
+    padding: 0;
+    width: 50%;
+    margin: auto;
+    margin-top: 2%;
+  }
+  
+  .list {
+    display: flex;
+    justify-content: space-between; /* Adjusted to space elements */
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .title {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+  
+  .completed {
+    color: green;
+    margin-top: 4%;
+  }
+  
+  .pending {
+    color: red;
+    margin-top: 4%;
+  }
+  
+  #toogle, #delete {
+    padding: 8px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #toogle {
+    margin-right: 10px;
+    margin-left: 40px;
+  }
+  
+  #delete {
+    background-color: #f44336;
+  }
+  .toogle-del{
+    display: flex;
+    justify-content: space-between;    
+}
+  
+  /* New styles for title and status icons */
+  .title-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .title-icon {
+    margin-right: 10px;
+  }
+  
+  /* Add or adjust icons as needed */
+  .completed-icon {
+    color: green;
+  }
+  
+  .pending-icon {
+    color: red;
+  }
