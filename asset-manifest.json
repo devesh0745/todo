@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devesh0745/todo.git/static/css/main.ab9c6a84.css",
+    "main.js": "/devesh0745/todo.git/static/js/main.12d686f8.js",
+    "index.html": "/devesh0745/todo.git/index.html",
+    "main.ab9c6a84.css.map": "/devesh0745/todo.git/static/css/main.ab9c6a84.css.map",
+    "main.12d686f8.js.map": "/devesh0745/todo.git/static/js/main.12d686f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab9c6a84.css",
+    "static/js/main.12d686f8.js"
+  ]
+}
